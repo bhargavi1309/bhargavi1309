@@ -93,13 +93,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavi1309&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1309&layout=compact)
-
----
 
 ## 🌐 Connect With Me
 
